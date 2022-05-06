@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compiler": "babel src --out-dir lib --watch"
+    "compiler": "babel src --out-dir lib --watch",
+    "build": "babel src --out-dir lib"
   },
   "keywords": [],
   "author": "",
